@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(void) {
-	cout << "12345";
+	cout << "123456";
 	return 0;
 }
